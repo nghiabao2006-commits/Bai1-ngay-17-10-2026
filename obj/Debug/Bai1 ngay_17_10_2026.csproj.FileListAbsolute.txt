@@ -1,0 +1,10 @@
+D:\Application\Visual Studio\source\repos\Bai1 ngay_17_10_2026\obj\Debug\Bai1 ngay_17_10_2026.csproj.AssemblyReference.cache
+D:\Application\Visual Studio\source\repos\Bai1 ngay_17_10_2026\obj\Debug\Bai1_ngay_17_10_2026.MainForm.resources
+D:\Application\Visual Studio\source\repos\Bai1 ngay_17_10_2026\obj\Debug\Bai1_ngay_17_10_2026.Properties.Resources.resources
+D:\Application\Visual Studio\source\repos\Bai1 ngay_17_10_2026\obj\Debug\Bai1 ngay_17_10_2026.csproj.GenerateResource.cache
+D:\Application\Visual Studio\source\repos\Bai1 ngay_17_10_2026\obj\Debug\Bai1 ngay_17_10_2026.csproj.CoreCompileInputs.cache
+D:\Application\Visual Studio\source\repos\Bai1 ngay_17_10_2026\bin\Debug\Bai1 ngay_17_10_2026.exe.config
+D:\Application\Visual Studio\source\repos\Bai1 ngay_17_10_2026\bin\Debug\Bai1 ngay_17_10_2026.exe
+D:\Application\Visual Studio\source\repos\Bai1 ngay_17_10_2026\bin\Debug\Bai1 ngay_17_10_2026.pdb
+D:\Application\Visual Studio\source\repos\Bai1 ngay_17_10_2026\obj\Debug\Bai1 ngay_17_10_2026.exe
+D:\Application\Visual Studio\source\repos\Bai1 ngay_17_10_2026\obj\Debug\Bai1 ngay_17_10_2026.pdb
